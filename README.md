@@ -1,3 +1,2 @@
-# Hola Mundo
+actividad 2 
 
-Repositorio de ejemplo con la estructura solicitada para la actividad.
